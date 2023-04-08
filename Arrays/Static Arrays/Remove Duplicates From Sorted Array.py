@@ -1,4 +1,4 @@
-def remove_duplicates(nums):
+def removeDuplicates(nums):
     l = 1
 
     for r in range(1, len(nums)):
